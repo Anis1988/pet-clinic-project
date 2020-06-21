@@ -1,0 +1,3 @@
+com/example/pet/services/map/OwnerMapServiceTest.class
+com/example/pet/services/map/PetMapServiceTest.class
+com/example/pet/services/springdatajpa/OwnerSDJpaServiceTest.class
